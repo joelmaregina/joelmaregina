@@ -2,7 +2,7 @@
 <hr>
 <h3>- 👋 I’m @joelmaregina, a beginner in the studies of technologies and programming;<br><br>
 - 👀 I’m interested in learning how to code better and improve my codes;<br><br>
-- 💻 I’m currently learning HTML, CSS, JavaScript and Java;<br><br>
+- 💻 I’m currently learning HTML, CSS, JavaScript, Java, C# and for college C;<br><br>
 - 🚀 I intend to become a professional with Full-Stack knowledge. </h3><br>
 
 <hr>
