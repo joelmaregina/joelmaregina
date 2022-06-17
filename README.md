@@ -1,8 +1,8 @@
 <h1><p align="center"> Hello World <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" height="28" width="28" /> ! I'm Joelma Regina! <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" height="28" width="28" /> </center></h1></p>
 <hr>
-<h3>- 👋 I’m @joelmaregina, a beginner in the studies of technologies and programming;<br><br>
+<h3>- 👋 I’m @joelmaregina, a Software Developer Intern at IBM (Angular/Mobile);<br><br>
 - 👀 I’m interested in learning how to code better and improve my codes;<br><br>
-- 💻 I’m currently learning HTML, CSS, JavaScript, Java, C# and for college C;<br><br>
+- 💻 I’m currently learning/improving HTML, CSS, JavaScript, Typescript, C for college, and Angular;<br><br>
 - 🚀 I intend to become a professional with Full-Stack knowledge. </h3><br>
 
 <hr>
